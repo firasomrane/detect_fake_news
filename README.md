@@ -3,3 +3,5 @@
 This was a part of my work in the KPMG datakontest in which we were asked to detect fake news.
 
 Used RNN, DL, LSTM, Embeddings, GRU ...
+
+Metrics used: recall, accuracy.
